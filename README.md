@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/shannonzylstra/bracket_matching)](https://repl.it/github/shannonzylstra/bracket_matching)
+
 # Challenge: Bracket Matching
 
 Bracket matching is a very common example usage of a stack. Many programming language compilers and interpreters use stacks for parsing language syntax, specifically for detecting when you open a code block and then when that code block is closed. This is called 'bracket matching'
